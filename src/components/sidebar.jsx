@@ -1,5 +1,5 @@
 ﻿import { Link, useLocation } from 'react-router-dom';
-import { Home, BookOpen, Gamepad, User, BarChart, Bot ,SettingsIcon,Route, AlarmClockPlus, ChartAreaIcon, CalendarCogIcon, LucideDollarSign } from 'lucide-react';
+import { Home, BookOpen,Bot ,SettingsIcon,Route,  LucideDollarSign } from 'lucide-react';
 
 
 const navItems = [
