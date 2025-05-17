@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'DogicaPixelRegular';
-    src: url('D:\pavan\projects\191.Brain.exe_stopped_working\cultourim\src\assets\font\OTF\dogica.otf') format('truetype');
+    src: url('./assets/font/OTF/dogica.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
